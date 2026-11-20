@@ -74,7 +74,7 @@ flowchart LR
 
 <div align="center">
 
-![Salekin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salekinnewaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Salekin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salekinnewaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salekinnewaz&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
