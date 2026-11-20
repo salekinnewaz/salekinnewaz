@@ -74,7 +74,12 @@ flowchart LR
 
 <div align="center">
 
-![Salekin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salekinnewaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+<img src="./assets/contributions-2026.png" alt="464 GitHub Contributions in the Last Year" width="100%" />
+
+*464 contributions across enterprise & open-source repositories (captured prior to client repository migration to GitLab).*
+
+<br/>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salekinnewaz&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
